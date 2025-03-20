@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Abhinav Singh Tiwari!  
+🚀 **Java Full Stack Developer | Software Engineer | Problem Solver**  
 
-<!--
-**Abh11nav/Abh11nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me  
+- 🎓 **B.Tech in Computer Science & Engineering** (Graduating June 2024)  
+- 💻 Passionate about **Full Stack Java Development, OOP, and Scalable Applications**  
+- 🛠️ **Tech Stack:**  
+  - **Backend:** Java, Spring Boot, Microservices, JDBC, Servlet, JSP  
+  - **Frontend:** HTML, CSS, JavaScript, React  
+  - **Database:** Oracle
 
-Here are some ideas to get you started:
+### 🔥 Projects  
+- **Crowd** – A social media app built with **HTML, CSS, and JavaScript**  
+- **Navrang** – An event management system using **HTML, CSS, and JavaScript**  
+- **Code Fusion** – An **online IDE** developed with **HTML, CSS, JavaScript, and React**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abhinav-singh-tiwari-07061a196)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Abh11nav)  
+📧 **Email:** abhinavsinghtiwari56@gmail.com  
